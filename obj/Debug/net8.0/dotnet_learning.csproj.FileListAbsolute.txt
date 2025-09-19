@@ -1,0 +1,14 @@
+C:\Users\EXTRAP\dotnet_learning\bin\Debug\net8.0\dotnet_learning.exe
+C:\Users\EXTRAP\dotnet_learning\bin\Debug\net8.0\dotnet_learning.deps.json
+C:\Users\EXTRAP\dotnet_learning\bin\Debug\net8.0\dotnet_learning.runtimeconfig.json
+C:\Users\EXTRAP\dotnet_learning\bin\Debug\net8.0\dotnet_learning.dll
+C:\Users\EXTRAP\dotnet_learning\bin\Debug\net8.0\dotnet_learning.pdb
+C:\Users\EXTRAP\dotnet_learning\obj\Debug\net8.0\dotnet_learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXTRAP\dotnet_learning\obj\Debug\net8.0\dotnet_learning.AssemblyInfoInputs.cache
+C:\Users\EXTRAP\dotnet_learning\obj\Debug\net8.0\dotnet_learning.AssemblyInfo.cs
+C:\Users\EXTRAP\dotnet_learning\obj\Debug\net8.0\dotnet_learning.csproj.CoreCompileInputs.cache
+C:\Users\EXTRAP\dotnet_learning\obj\Debug\net8.0\dotnet_learning.dll
+C:\Users\EXTRAP\dotnet_learning\obj\Debug\net8.0\refint\dotnet_learning.dll
+C:\Users\EXTRAP\dotnet_learning\obj\Debug\net8.0\dotnet_learning.pdb
+C:\Users\EXTRAP\dotnet_learning\obj\Debug\net8.0\dotnet_learning.genruntimeconfig.cache
+C:\Users\EXTRAP\dotnet_learning\obj\Debug\net8.0\ref\dotnet_learning.dll
